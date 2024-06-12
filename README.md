@@ -1,12 +1,12 @@
 ### Hi there 👋, My name is Parth Singh
 ---
 
-<h5>I am a third-year ME undergrad at IIT Delhi.
+<h3>I am a third-year ME undergrad at IIT Delhi.
 
 - 🔭 I’m currently working on ML, WebDev and Data Science. 
 - 📚  I am interested in competitive programming and cryptography. 
 
-</h5>
+</h3>
 <a href="https://codeforces.com/profile/parz_414">
 <img 
   title="CodeForces" 
@@ -15,7 +15,6 @@
   height='80'>
 </a>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-</h5>
 <a href="https://www.codewars.com/users/paz414">
 <img 
   title="CodeWars" 
@@ -33,4 +32,11 @@
   height='80'>
 </a>
 
+## GitHub Stats
+<br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=paz414&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paz414)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=paz414)  
