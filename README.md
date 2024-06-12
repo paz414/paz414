@@ -7,7 +7,7 @@
 - 📚  I am interested in competitive programming and cryptography. 
 
 </h3>
-<a href="https://codeforces.com/profile/parz_414">
+<a href="https://codeforces.com/profile/parz_414" target="_blank">
 <img 
   title="CodeForces" 
   src= "https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png"
@@ -15,7 +15,7 @@
   height='80'>
 </a>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<a href="https://www.codewars.com/users/paz414">
+<a href="https://www.codewars.com/users/paz414" target="_blank">
 <img 
   title="CodeWars" 
   src= "https://pbs.twimg.com/profile_images/1750534926779236357/okHhHIys_400x400.jpg"
@@ -24,7 +24,7 @@
 </a>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 </h5>
-<a href="https://leetcode.com/u/parz_414/">
+<a href="https://leetcode.com/u/parz_414/" target="_blank">
 <img 
   title="LeetCode" 
   src= "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png"
