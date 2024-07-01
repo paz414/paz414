@@ -32,10 +32,15 @@
   height='80'>
 </a>
 
+## Some of My Projects
+* [Term Deposit Sales](https://github.com/paz414/termDepositSales)
+* [Heart Disease Prediction](https://github.com/paz414/HeartDiseasePrediction)
+* [2-Player Chess](https://github.com/paz414/chess_java)
+
+
+
 ## GitHub Stats
 <br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paz414&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paz414)](https://github.com/anuraghazra/github-readme-stats)
 
