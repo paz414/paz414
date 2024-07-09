@@ -7,13 +7,6 @@
 - 📚  I am interested in competitive programming and cryptography. 
 
 </h3>
-<a href="https://codeforces.com/profile/parz_414" target="_blank">
-<img 
-  title="CodeForces" 
-  src= "https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png"
-  alt="codeforces" 
-  height='80'>
-</a>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <a href="https://www.codewars.com/users/paz414" target="_blank">
 <img 
