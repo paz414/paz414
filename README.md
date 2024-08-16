@@ -3,7 +3,7 @@
 
 <h3>I am a third-year ME undergrad at IIT Delhi.
 
-- 🔭 I’m currently working on ML, WebDev and Data Science. 
+- 🔭 I’m currently working on ML, WebDev and Parallel Programming. 
 - 📚  I am interested in competitive programming and cryptography. 
 
 <a href="https://leetcode.com/u/parz_414/">
