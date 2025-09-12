@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=5010&pause=1000&color=06FF2C&random=false&width=435&lines=Well%2C+hello+there!+I+am+Parth+)](https://git.io/typing-svg)
 ---
 
-<h3>I am a final-year ME undergrad at IIT Delhi.
+<h3>I am a final-year ME undergrad at IIT Delhi.<br><br><br><br>
 
 <a href="https://leetcode.com/u/parz_414/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -15,11 +15,6 @@
 <a href="https://x.com/parz_414">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-
-<a href="https://www.instagram.com/parz_414/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 
 ## Stats
 <br>
